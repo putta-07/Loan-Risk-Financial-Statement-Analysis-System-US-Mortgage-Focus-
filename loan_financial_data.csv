@@ -1,0 +1,7 @@
+﻿Application_ID,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Term_Months,Credit_Score,Existing_EMI,Employment_Type,Property_Value,Loan_Purpose
+LN001,5500,2000,250000,360,750,800,Salaried,350000,Purchase
+LN002,4200,0,180000,240,690,600,Salaried,260000,Purchase
+LN003,3000,1500,200000,360,620,900,Self-Employed,280000,Refinance
+LN004,8000,3000,400000,360,810,1200,Salaried,550000,Purchase
+LN005,2800,0,150000,180,580,1100,Self-Employed,210000,Purchase
+LN006,6000,2500,300000,360,720,950,Salaried,420000,Refinance
